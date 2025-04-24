@@ -18,7 +18,6 @@ Welcome to my GitHub profile! I'm a passionate **Frontend-First Full Stack Devel
 
 ## 📫 How to reach me:
 - **Email**: [ashikshettyc@gmail.com](mailto:ashikshettyc@gmail.com)
-- **LinkedIn**: [Your LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/ashik-shetty-c/)) *(Update this with your actual LinkedIn URL)*
-
+- **LinkedIn**: [Your LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/ashik-shetty-c/)
 
 Thanks for stopping by! Feel free to reach out or explore my repositories. 😊
