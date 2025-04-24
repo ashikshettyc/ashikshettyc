@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Ashik Shetty 👋
 
-<!--
-**ashikshettyc/ashikshettyc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate **Frontend-First Full Stack Developer** with 1 year of experience specializing in **React** and **Next.js**. I enjoy building scalable and modern web applications while continuously learning and growing in the field of frontend development.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🔭 I’m currently working on **building scalable and modern web applications**
+- 🌱 I’m currently learning **more advanced frontend technologies and best practices**
+- 👯 I’m looking to collaborate on **open-source web development projects**
+- 💬 Ask me about **React, Next.js, and frontend best practices**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+- **Frontend Development**: ![React](https://img.shields.io/badge/-React-blue), ![Next.js](https://img.shields.io/badge/-Next.js-black), ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+- **Styling**: ![CSS](https://img.shields.io/badge/-CSS-blue), ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-teal)
+- **Version Control**: ![Git](https://img.shields.io/badge/-Git-orange), ![GitHub](https://img.shields.io/badge/-GitHub-black)
+
+## 📊 GitHub Stats
+![Ashik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashikshettyc&show_icons=true&theme=radical)
+
+## 📫 How to reach me:
+- **Email**: [ashikshettyc@gmail.com](mailto:ashikshettyc@gmail.com)
+- **LinkedIn**: [Your LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/ashik-shetty-c/)) *(Update this with your actual LinkedIn URL)*
+
+
+Thanks for stopping by! Feel free to reach out or explore my repositories. 😊
