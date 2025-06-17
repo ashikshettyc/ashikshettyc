@@ -1,5 +1,5 @@
 # Hi there, I'm Ashik Shetty 👋
-🌐 https://ashik-shetty-portfolio.vercel.app/
+
 Welcome to my GitHub profile! I'm a passionate **Frontend-First Full Stack Developer** with 1 year of experience specializing in **React** and **Next.js**. I enjoy building scalable and modern web applications while continuously learning and growing in the field of frontend development.
 
 ## 🚀 About Me
@@ -18,6 +18,6 @@ Welcome to my GitHub profile! I'm a passionate **Frontend-First Full Stack Devel
 
 ## 📫 How to reach me:
 - **Email**: [ashikshettyc@gmail.com](mailto:ashikshettyc@gmail.com)
-- **LinkedIn**:(https://www.linkedin.com/in/ashik-shetty-c/)
-
+- **LinkedIn**:https://www.linkedin.com/in/ashik-shetty-c/
+- **Portfolio**: 🌐 https://ashik-shetty-portfolio.vercel.app/
 Thanks for stopping by! Feel free to reach out or explore my repositories. 😊
