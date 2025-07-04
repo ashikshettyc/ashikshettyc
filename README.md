@@ -32,6 +32,9 @@ Welcome to my GitHub! I'm a passionate **Frontend-First Full Stack Developer** w
 ![Ashik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashikshettyc&show_icons=true&theme=radical)
 
 ---
+## 📚 Coding Practice
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/ashikshettyc?theme=dark&ext=contest)
 
 ## 📫 Let's Connect
 
