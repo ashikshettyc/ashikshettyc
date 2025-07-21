@@ -5,8 +5,7 @@ Welcome to my GitHub! I'm a passionate **Frontend-First Full Stack Developer** w
 ---
 
 ## 🚀 About Me
-
-- 💼 Frontend Developer with **1 year** of professional experience  
+ 
 - 🛠️ Tech Stack: **React**, **Next.js**, **JavaScript**, **TypeScript**, **Tailwind CSS**
 - 🎯 Currently improving my backend skills and diving deeper into **full stack development**
 - 🌱 Learning best practices in **performance optimization**, **accessibility**, and **clean code**
