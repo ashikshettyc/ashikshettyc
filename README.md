@@ -38,7 +38,6 @@ Welcome to my GitHub! I'm a passionate **Frontend-First Full Stack Developer** w
 ## 📫 Let's Connect
 
 - 📧 Email: [ashikshettyc@gmail.com](mailto:ashikshettyc@gmail.com)
-- 💼 LinkedIn: [ashik-shetty-c](https://www.linkedin.com/in/ashik-shetty-c)
 - 🧠 LeetCode: [leetcode.com/ashikshettyc](https://leetcode.com/ashikshettyc)
 
 ---
