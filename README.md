@@ -1,45 +1,109 @@
-# 👋 Hi there, I'm Ashik Shetty
+<!-- README.md — Ashik Kumar Shetty -->
 
-Welcome to my GitHub! I'm a passionate **Frontend-First Full Stack Developer** with a strong foundation in **React** and **Next.js**, currently focused on building modern, scalable, and performance-driven web applications.
+```js
+const ashik = {
+  role:        "Full Stack Developer",
+  experience:  "3+ years",
+  stack:       ["React", "Next.js", "NestJS", "PostgreSQL", "AWS"],
+  currently:   "Building exam infra at NAVIS HR",
+  learning:    "System design · DSA · distributed systems",
+}
+```
+
+## Hi, I'm Ashik Kumar Shetty 👋
+
+Full Stack Developer based in Bangalore with 3+ years shipping production-grade web applications — from 22,000-page SEO platforms to real-time exam systems handling concurrent users under live load. I care about system reliability, clean architecture, and building things that actually scale.
+
+📬 ashikshettyc@gmail.com · 💻 [LeetCode](https://leetcode.com/ashikshettyc) · 🐙 [GitHub](https://github.com/ashikshettyc)
 
 ---
 
-## 🚀 About Me
- 
-- 🛠️ Tech Stack: **React**, **Next.js**, **JavaScript**, **TypeScript**, **Tailwind CSS**
-- 🎯 Currently improving my backend skills and diving deeper into **full stack development**
-- 🌱 Learning best practices in **performance optimization**, **accessibility**, and **clean code**
-- 🤝 Open to collaboration on **open-source projects** and meaningful web products
+## 📊 By the numbers
+
+| Stat | Value |
+|---|---|
+| Frontend apps shipped | 30+ |
+| Static pages scaled | 22,000+ |
+| Concurrent users (live exams) | 50+ |
+| SEO traffic improvement | +30% |
 
 ---
 
-## 🧰 Technologies & Tools
+## 💼 Experience
 
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
+### Full Stack Developer · NAVIS HR
+`Jan 2026 – Present`
+
+- Built a scalable online exam platform supporting **50+ concurrent users** with real-time submissions
+- Designed system architecture (ERD, PostgreSQL schema, REST APIs) ensuring data consistency under live load
+- Implemented JWT auth + RBAC for multi-role access; event-driven async workflows for email notifications
+- Winston-based logging for full audit trails; deployed on EC2 with Helmet, throttling, and input validation
+
+`React` `NestJS` `PostgreSQL` `TypeORM` `AWS EC2/S3` `JWT` `Winston`
+
+---
+
+### Full Stack Developer · Sprite Genix
+`Dec 2023 – Dec 2025`
+
+- Delivered **30+ frontend applications** and 2 full-stack products across cross-functional teams
+- Scaled platform to **22,000+ static pages**; improved SEO traffic 30% via JSON-LD + sitemap automation
+- Increased user engagement 30% through targeted UI/UX and performance improvements
+- Built reusable component architecture that accelerated delivery and reduced maintenance overhead
+
+`React` `Next.js` `Node.js` `GraphQL` `PostgreSQL` `Prisma` `Docker` `AWS`
+
+---
+
+### Full Stack Developer Intern · Aitsun Technologies
+`Jun 2023 – Nov 2023`
+
+- Built full-stack features in Next.js + CodeIgniter for internal ERP and POS systems
+- Designed optimized MySQL schemas and contributed to REST API development
+
+`React` `Next.js` `PHP` `MySQL` `TypeScript`
+
+---
+
+## 🚀 Projects
+
+### [Vande Bharat](https://github.com/ashikshettyc)
+Full-stack social platform with profiles, feeds, communities, and marketplace. Scalable media upload APIs, client-side caching with TanStack Query, infinite scrolling, deployed on Vercel (frontend) + AWS EC2 (backend).
+
+`Next.js` `Node.js` `MongoDB` `Clerk` `AWS`
+
+---
+
+### CyberSecurity One Stop Solution
+Multi-role platform (User, Expert, Admin) with secure auth, SSR/ISR for 30% performance improvement, GraphQL-optimized data layer, and admin dashboard for moderation and verification.
+
+`Next.js` `GraphQL` `PostgreSQL` `Prisma`
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend** · React · Next.js · TypeScript · Tailwind CSS · Zustand · React Query  
+**Backend** · Node.js · NestJS · Express · REST APIs · GraphQL  
+**Databases** · PostgreSQL · MongoDB · MySQL · TypeORM · Prisma  
+**Cloud & Tools** · AWS EC2/S3 · Docker · Git · CI/CD  
+**Languages** · JavaScript · TypeScript · Python
 
 ---
 
 ## 📈 GitHub Stats
 
-![Ashik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashikshettyc&show_icons=true&theme=radical)
-
----
-## 📚 Coding Practice
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/ashikshettyc?theme=dark&ext=contest)
-
-## 📫 Let's Connect
-
-- 📧 Email: [ashikshettyc@gmail.com](mailto:ashikshettyc@gmail.com)
-- 🧠 LeetCode: [leetcode.com/ashikshettyc](https://leetcode.com/ashikshettyc)
+![LeetCode Stats](https://leetcard.jacoblin.cool/ashikshettyc?theme=light&ext=contest)
 
 ---
 
-Thanks for visiting my profile! Feel free to explore my repositories or reach out for collaboration opportunities. 🚀
+## 🎯 Currently focused on
+
+- 🌲 DSA — sliding window, BFS/DFS, trees, basic DP
+- 🏗️ System design — HLD, LLD, distributed systems
+- ⚙️ JS/TS internals — event loop, closures, async, generics
+- 📅 Goal: 15 LPA+ offer by end of 2026
+
+---
+
+*Open to full-time opportunities at product companies in Bangalore. Feel free to reach out.*
