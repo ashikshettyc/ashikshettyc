@@ -3,7 +3,7 @@
 ```js
 const ashik = {
   role:        "Full Stack Developer",
-  experience:  "3+ years",
+  experience:  "2+ years",
   stack:       ["React", "Next.js", "NestJS", "PostgreSQL", "AWS"],
   currently:   "Building exam infra at NAVIS HR",
   learning:    "System design · DSA · distributed systems",
@@ -12,7 +12,7 @@ const ashik = {
 
 ## Hi, I'm Ashik Kumar Shetty 👋
 
-Full Stack Developer based in Bangalore with 3+ years shipping production-grade web applications — from 22,000-page SEO platforms to real-time exam systems handling concurrent users under live load. I care about system reliability, clean architecture, and building things that actually scale.
+Full Stack Developer based in Bangalore with 2+ years shipping production-grade web applications — from 22,000-page SEO platforms to real-time exam systems handling concurrent users under live load. I care about system reliability, clean architecture, and building things that actually scale.
 
 📬 ashikshettyc@gmail.com · 💻 [LeetCode](https://leetcode.com/ashikshettyc) · 🐙 [GitHub](https://github.com/ashikshettyc)
 
@@ -44,7 +44,7 @@ Full Stack Developer based in Bangalore with 3+ years shipping production-grade 
 ---
 
 ### Full Stack Developer · Sprite Genix
-`Dec 2023 – Dec 2025`
+
 
 - Delivered **30+ frontend applications** and 2 full-stack products across cross-functional teams
 - Scaled platform to **22,000+ static pages**; improved SEO traffic 30% via JSON-LD + sitemap automation
@@ -56,7 +56,7 @@ Full Stack Developer based in Bangalore with 3+ years shipping production-grade 
 ---
 
 ### Full Stack Developer Intern · Aitsun Technologies
-`Jun 2023 – Nov 2023`
+
 
 - Built full-stack features in Next.js + CodeIgniter for internal ERP and POS systems
 - Designed optimized MySQL schemas and contributed to REST API development
